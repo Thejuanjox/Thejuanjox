@@ -12,6 +12,7 @@ Redes: Certificación Cisco (Networking, Routing & Switching).
 Datos: Gestión de Bases de Datos y análisis de Big Data.
 
 Sistemas: Administración avanzada de Sistemas Operativos.
+
 [![My Skills](https://skillicons.dev/icons?i=java,py,cs,cisco,mysql,linux,windows)](https://skillicons.dev)
 
 💼 Lo que hago
