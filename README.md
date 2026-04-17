@@ -5,7 +5,9 @@ Me apasiona construir soluciones tecnológicas robustas, desde el código hasta 
 
 🚀 Conocimientos técnicos
 
-Lenguajes: Java, Python y C#.![Uploading image.png…]()
+Lenguajes: Java, Python y C#.### 🚀 Tecnologías y Herramientas
+
+[![My Skills](https://skillicons.dev/icons?i=java,py,cs,cisco,mysql,linux,windows)](https://skillicons.dev)
 
 
 Redes: Certificación Cisco (Networking, Routing & Switching).
