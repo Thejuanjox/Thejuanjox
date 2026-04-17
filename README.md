@@ -3,7 +3,7 @@
 
 Me apasiona construir soluciones tecnológicas robustas, desde el código hasta la infraestructura. Combino mi formación en ingeniería con la capacidad de diseñar redes seguras y sistemas escalables.
 
-🚀 Mi Stack Técnico
+🚀 Conocimientos técnicos
 
 Lenguajes: Java, Python y C#.
 
