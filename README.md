@@ -5,7 +5,8 @@ Me apasiona construir soluciones tecnológicas robustas, desde el código hasta 
 
 🚀 Conocimientos técnicos
 
-Lenguajes: Java, Python y C#.
+Lenguajes: Java, Python y C#.![Uploading image.png…]()
+
 
 Redes: Certificación Cisco (Networking, Routing & Switching).
 
