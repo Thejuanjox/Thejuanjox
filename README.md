@@ -5,7 +5,7 @@ Me apasiona construir soluciones tecnológicas robustas, desde el código hasta 
 
 🚀 Conocimientos técnicos
 
-Lenguajes: Java, Python y C#.### 🚀 Tecnologías y Herramientas
+Lenguajes: Java, Python y C#.
 
 [![My Skills](https://skillicons.dev/icons?i=java,py,cs,cisco,mysql,linux,windows)](https://skillicons.dev)
 
