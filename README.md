@@ -7,14 +7,12 @@ Me apasiona construir soluciones tecnológicas robustas, desde el código hasta 
 
 Lenguajes: Java, Python y C#.
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,cs,cisco,mysql,linux,windows)](https://skillicons.dev)
-
-
 Redes: Certificación Cisco (Networking, Routing & Switching).
 
 Datos: Gestión de Bases de Datos y análisis de Big Data.
 
 Sistemas: Administración avanzada de Sistemas Operativos.
+[![My Skills](https://skillicons.dev/icons?i=java,py,cs,cisco,mysql,linux,windows)](https://skillicons.dev)
 
 💼 Lo que hago
 Transformo problemas complejos en software eficiente y arquitecturas de red sólidas, optimizando procesos mediante la automatización y el desarrollo a medida.
